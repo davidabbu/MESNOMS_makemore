@@ -9,6 +9,8 @@ import torch
 
 MESNOMS una IA que agafa noms de persona en català i crea nous noms basats en com estan construits. Això es pot fer mitjançant un model simple de correlacions a dos caracters o via una xarxa neuronal. Aquí es fan les dues coses per poder comparar.
 
+Aquest codi està basat en el video https://www.youtube.com/watch?v=TCH_1BHY58I&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=3 on es fa el mateix. Comentaris del codi estan en angles, però el redactat en català.
+
 #### 0) Dades
 
 
