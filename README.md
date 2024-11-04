@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import torch
 ```
 
-### Fer MESNOMS
+### MESNOMS
 
 MESNOMS una IA que agafa noms de persona en català i crea nous noms basats en com estan construits. Això es pot fer mitjançant un model simple de correlacions a dos caracters o via una xarxa neuronal. Aquí es fan les dues coses per poder comparar.
 
